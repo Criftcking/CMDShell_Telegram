@@ -10,7 +10,8 @@ This is a backdoor to gain access to the victim's Windows CMD and execute comman
 
 <H1>Commands</H1>
 <H4>/download EXAMPLE.JPG</H4>
-- dir\n
+- dir
+
 - cd
 - mkdir
 - rmdir
