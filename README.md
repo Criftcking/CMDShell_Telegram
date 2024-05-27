@@ -10,25 +10,23 @@ This is a backdoor to gain access to the victim's Windows CMD and execute comman
 
 <H1>Commands</H1>
 <H4>/download EXAMPLE.JPG</H4>
-
-<h4>dir</h4>
-<h4>cd</h4>
-<h4>mkdir</h4>
-<h4>rmdir</h4>
-<h4>del</h4>
-<h4>copy</h4>
-<h4>move</h4>
-<h4>ren</h4>
-<h4>type</h4>
-<h4>echo</h4>
-<h4>cls</h4>
-<h4>exit</h4>
-<h4>ipconfig</h4>
-<h4>ping</h4>
-<h4>netstat</h4>
-<h4>tasklist</h4>
-<h4>taskkill</h4>
-<h4>shutdown</h4>
-<h4>systeminfo</h4>
-<h4>help</h4>
-
+### dir
+### cd
+### mkdir
+### rmdir
+### del
+### copy
+### move
+### ren
+### type
+### echo
+### cls
+### exit
+### ipconfig
+### ping
+### netstat
+### tasklist
+### taskkill
+### shutdown
+### systeminfo
+### help
