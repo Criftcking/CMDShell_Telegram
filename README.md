@@ -7,3 +7,7 @@ This is a backdoor to gain access to the victim's Windows CMD and execute comman
 
 ![bandicam 2024-05-27 10-50-43-569](https://github.com/Criftcking/CMDShell_Telegram/assets/86767725/9b28f2d5-2f3c-488c-80c1-f0f46792f747)
 
+
+<H1>Commands</H1>
+<H4>/download <EXAMPLE.JPG></H4>
+
