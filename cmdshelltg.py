@@ -17,7 +17,7 @@ def handle_start(message):
     
 #vamos agregar algo para descargar un archivo del directorio actual y enviarlo a telegrsm    
     
-@bot.message_handler(commands=['archivo'])
+@bot.message_handler(commands=['download'])
 def handle_enviar_archivo(message):
     try:
         nombre_archivo = message.text.split(maxsplit=1)[1]
